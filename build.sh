@@ -1,5 +1,4 @@
-#!/bin/bash
-
+#!/bin/zsh
 
 function copy() {
 	echo -e "Creating configuration directory under /etc/cas"

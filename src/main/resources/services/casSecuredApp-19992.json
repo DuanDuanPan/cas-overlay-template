@@ -1,0 +1,8 @@
+{
+  "@class": "org.apereo.cas.services.RegexRegisteredService",
+  "serviceId": "^(http|https)://192.168.88.24.*",
+  "name": "CAS Shiro Secured App",
+  "description": "This is a Spring App that usses the CAS Server for it's authentication",
+  "id": 19992,
+  "evaluationOrder": 2
+}
